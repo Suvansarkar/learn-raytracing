@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/raytracer.dir/link.d CMakeFiles/raytracer.dir/src/main.cc.o -o raytracer
