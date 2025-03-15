@@ -1,0 +1,3 @@
+/home/suvan/learn-raytracing/build/CMakeFiles/raytracer.dir
+/home/suvan/learn-raytracing/build/CMakeFiles/edit_cache.dir
+/home/suvan/learn-raytracing/build/CMakeFiles/rebuild_cache.dir

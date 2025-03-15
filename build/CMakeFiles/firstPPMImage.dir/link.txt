@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/firstPPMImage.dir/link.d CMakeFiles/firstPPMImage.dir/src/main.cc.o -o firstPPMImage
