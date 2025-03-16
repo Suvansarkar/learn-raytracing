@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.31)
+Cmake_minimum_required(VERSION 3.31)
 
 project(RayTracing LANGUAGES CXX)
 
@@ -9,6 +9,8 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 set ( SOURCE_FILES
   src/main.cc
   src/vec3.h
+  src/color.h
+  src/ray.h
 )
 
 message (STATUS "Compiler ID: " ${CMAKE_CXX_COMPILER_ID})
