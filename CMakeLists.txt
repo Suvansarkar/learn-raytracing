@@ -15,6 +15,7 @@ set ( SOURCE_FILES
   src/hittable_list.h
   src/utils.h
   src/sphere.h
+  src/camera.h
 )
 
 message (STATUS "Compiler ID: " ${CMAKE_CXX_COMPILER_ID})
