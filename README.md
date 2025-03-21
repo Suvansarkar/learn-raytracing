@@ -2,6 +2,41 @@
 
 Trying to learn ray tracing in one weekend.
 
+## Build and run project
+
+I hope you know how to do the necessary, 
+```bash
+    $ git clone https://github.com/Suvansarkar/raytracer
+    $ cd raytracer
+```
+
+Next generate make files using cmake
+```bash
+    $ mkdir build
+    $ cmake -B build
+```
+
+Now build the project
+```bash
+    $ cmake --build build
+```
+
+Run the project
+```bash
+    $ ./build/raytracer > output.ppm
+```
+
+> Note: This ray tracer only outputs to ppm format. You can use `convert` command to convert it to other formats.
+
+```bash
+    $ convert output.ppm output.png
+```
+
+## Sample images
+
+![first render](./images/image2.png)
+![metal example](./images/image1.png)
+
 ## Resources / References
 
 ### Ray Tracing
