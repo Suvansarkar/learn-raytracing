@@ -34,8 +34,8 @@ Run the project
 
 ## Sample images
 
-![first render](./images/image2.ppm)
-![metal example](./images/image1.ppm)
+![first render](./images/diffuse.png)
+![metal example](./images/metal.png)
 
 ## Resources / References
 
